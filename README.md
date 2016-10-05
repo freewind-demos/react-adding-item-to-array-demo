@@ -1,7 +1,7 @@
-React Base Project
-==================
+React Adding Item To Array Demo
+===============================
 
-React base project.
+Add a string by text input to an array, and show them.
 
 ```
 npm install
